@@ -6,3 +6,10 @@ content:
         statement: course/summary.md
       - title: "PEP 498: Formatted string literals"
         statement: course/pep498.md
+
+projects:
+  python:
+    root: /src
+    runner:
+      name: python
+      version: 3.6
