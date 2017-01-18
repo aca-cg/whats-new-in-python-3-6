@@ -4,3 +4,5 @@ content:
       - title: Summary - Release highlights
         description: Discover the new features released with Python 3.6
         statement: course/summary.md
+      - title: "PEP 498: Formatted string literals"
+        statement: course/pep498.md
