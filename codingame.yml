@@ -1,8 +1,6 @@
 content:
-  title : Course title
+  title : What's New In Python 3.6
   plan:
-    - title: The first chapter or lesson
-      description: This lesson will help you to discover ...
-      plan:
-        - title: The first lesson
-          description: This is the first lesson of the first chpater. This level is optional if only lessons are provided
+      - title: Summary - Release highlights
+        description: Discover the new features released with Python 3.6
+        statement: course/summary.md
