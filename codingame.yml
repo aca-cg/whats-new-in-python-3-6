@@ -6,9 +6,13 @@ content:
         statement: course/summary.md
       - title: "PEP 498: Formatted string literals"
         statement: course/pep498.md
+      - title: "PEP 515: Underscores in Numeric Literals"
+        statement: course/pep515.md
 
 projects:
   python:
     root: /src
+    builder:
+      name: codingame/python3-pip-builder
     runner:
       name: codingame/python3-unittest-runner
