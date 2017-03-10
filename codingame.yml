@@ -13,5 +13,5 @@ projects:
   python:
     root: /src
     runner:
-      name: python3-unittest-runner
+      name: codingame/python3-unittest-runner
       version: 1.1.0-python-3.6
