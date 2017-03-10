@@ -12,7 +12,5 @@ content:
 projects:
   python:
     root: /src
-    builder:
-      name: codingame/python3-pip-builder
     runner:
-      name: codingame/python3-unittest-runner
+      name: python3-unittest-runner
